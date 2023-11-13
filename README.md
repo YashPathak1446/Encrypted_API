@@ -1,12 +1,5 @@
-Assignment 4: Extending the Platform
+Project to extend the sockets AND protocols assignment by retrievig webAPIs and encrypting thme in order to print messages in different ways.
 
-This assignment includes the following starter files:
-
-* __a4.py__: Use this file as the main module for your program.
-* __OpenWeather.py__: Use this file as your module for the OpenWeather API.
-* __LastFM.py__: Use this file as your module for the LastFM API.
-* __WebAPI.py__: Use this file to implement common features for API modules.
-
-If you plan on completing the extra credit, you will need to create a new module called __ExtraCreditAPI.py__.
-
-Please visit the course website for a detailed overview of the assignment.
+Connected to and retrieved data from at least 2 web API’s using Python’s urllib module.
+Used transclusion to parse and replace keywords in a journal entry with content from web API’s.
+Wrote classes to manage APIs.
